@@ -1,0 +1,15 @@
+#cc{
+    background-color: blanchedalmond;
+}
+#footer{
+    position: absolue;
+    bottom: 0;
+    width: 100px;
+    height: 100px;
+}
+#img{
+    position: fixed;
+    bottom: 0;
+    width: 50px;
+    height: 100px;
+}
